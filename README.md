@@ -23,7 +23,7 @@ Projeto simples de Lista de Tarefas desenvolvido para praticar frontend utilizan
 
 ## 📸 Preview do Projeto
 
-<img width="700" alt="preview" src="https://via.placeholder.com/700x350.png?text=Todo+List+Preview">
+<img width="1322" height="688" alt="Captura de tela 2026-05-07 024550" src="https://github.com/user-attachments/assets/5a24b696-9201-4cc7-b36b-701d79b30455"/>
 
 ---
 
